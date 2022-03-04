@@ -1,7 +1,7 @@
 .footer-basic {
-  padding:40px 0;
-  background-color:#96b6c5;
-  color:#4b4c4d;
+  padding:25px 500px;
+  background-color:#8d9397;
+  color:#9bc5f0;
 }
 
 .footer-basic ul {
@@ -54,6 +54,6 @@
   margin-top:15px;
   text-align:center;
   font-size:13px;
-  color:rgb(105, 143, 80);
+  color:rgb(241, 244, 247);
   margin-bottom:0;
 }
