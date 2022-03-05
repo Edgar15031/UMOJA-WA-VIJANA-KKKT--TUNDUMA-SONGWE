@@ -71,15 +71,15 @@ background: linear-gradient(to bottom, #2F80ED, #56CCF2);
   color: #fafafa;
 }
 
-.tag-brown {
+.tag-red {
   background: #D1913C;
-background: linear-gradient(to bottom, #FFD194, #D1913C);
+background: linear-gradient(to bottom, #e60808, #881755);
   color: #fafafa;
 }
 
-.tag-red {
-  background: #cb2d3e;
-background: linear-gradient(to bottom, #ef473a, #cb2d3e);
+.tag-green {
+  background: #229b1e;
+background: linear-gradient(to bottom, #3a7c20, #18b48d);
   color: #fafafa;
 }
 

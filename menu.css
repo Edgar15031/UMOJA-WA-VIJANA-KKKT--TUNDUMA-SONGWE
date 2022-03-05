@@ -3,6 +3,7 @@
 .cf:after {
   content: " ";
   display: table;
+  
 }
 
 .cf:after {
@@ -16,14 +17,14 @@
 /* Mini reset, no margins, paddings or bullets */
 .menu,
 .submenu {
-  margin: 0;
-  padding: 0;
+  margin: 100;
+  padding left: 150;
   list-style: none;
 }
 
 /* Main level */
 .menu {			
-  margin: 50px auto;
+  margin: 100px auto;
   width: 800px;
   /* http://www.red-team-design.com/horizontal-centering-using-css-fit-content-value */
   width: -moz-fit-content;
@@ -48,19 +49,20 @@
 }		
 
 .menu li:hover {
-  background: #e74c3c;
+  background: #e6cbc8;
 }		
 
 .menu > li > a {
   transform: skewX(-25deg);
   padding: 1em 2em;
+
 }
 
 /* Dropdown */
 .submenu {
   position: absolute;
   width: 200px;
-  left: 50%; margin-left: -100px;
+  left: 50%; margin-left: -10px;
   transform: skewX(-25deg);
   transform-origin: left top;
 }
